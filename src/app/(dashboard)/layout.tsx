@@ -18,7 +18,7 @@ alt="logo"
 width={32}
 height={32}
 />
-<span className="hidden lg:block">SchooLama</span>
+<span className="hidden lg:block font-bold">SchooLama</span>
 </Link>
 <Menu/>
     </div>
